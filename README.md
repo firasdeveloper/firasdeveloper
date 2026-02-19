@@ -7,6 +7,7 @@
 **Senior Full Stack Developer** crafting enterprise-scale web applications
 
 [![Portfolio](https://img.shields.io/badge/firascodes.ca-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://firascodes.ca)
+[![Projects](https://img.shields.io/badge/Projects-111111?style=for-the-badge&logo=files&logoColor=D4AF37)](https://www.firascodes.ca/projects)
 [![Blog](https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=hashnode&logoColor=D4AF37)](https://firascodes.ca/blog)
 
 </div>
